@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Nascom")(type "KiCad")(uri "${KIPRJMOD}/Nascom.pretty")(options "")(descr ""))
+)
