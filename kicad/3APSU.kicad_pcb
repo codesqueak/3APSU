@@ -9907,7 +9907,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "input")
-			(uuid "5157759b-18cf-4438-8428-6ba2be268afe")
+			(uuid "8d620f26-c561-49d2-af0d-d006e22cbf52")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-3.wrl"
@@ -13126,6 +13126,18 @@
 				(bold yes)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "CS-012"
+		(at 215.909879 172.802291 0)
+		(layer "B.SilkS")
+		(uuid "75834bc0-aaec-4858-8ae8-639cea9f6071")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
